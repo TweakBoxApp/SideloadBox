@@ -6,7 +6,6 @@
 #### Links
 **The site**: [https://sideload.tweakboxapp.com](https://sideload.tweakboxapp.com)
 
-**Common Issues**: [The Wiki]()
+**Common Issues**: [The Wiki](https://github.com/TweakBoxApp/SideloadBox/wiki/Common-Issues)
 
-**Tutorials**: [The Wiki]()
-
+**Tutorials**: [The Wiki](https://github.com/TweakBoxApp/SideloadBox/wiki/Getting-Started)
