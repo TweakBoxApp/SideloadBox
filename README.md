@@ -8,4 +8,4 @@
 
 **Common Issues**: [The Wiki](https://github.com/TweakBoxApp/SideloadBox/wiki/Common-Issues)
 
-**Tutorials**: [The Wiki](https://github.com/TweakBoxApp/SideloadBox/wiki/Getting-Started)
+**Getting Started**: [The Wiki](https://github.com/TweakBoxApp/SideloadBox/wiki/Getting-Started)
