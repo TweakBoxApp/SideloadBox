@@ -9,4 +9,6 @@
 
 **Getting Started**: [The Wiki](https://github.com/TweakBoxApp/SideloadBox/wiki/Getting-Started)
 
+**Discord** [Discord Invite](https://discord.gg/CP6h774)
+
 Welcome Sideloaders this github repo will contain infomation that will help you as you start to side your apps. You are free to make pull requests or issues if there is infomation missing.
